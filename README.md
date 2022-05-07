@@ -96,12 +96,6 @@ Go to `uptimerobot.com` to setup monitoring for the RestaurantPOS web app.
     </p>
 -->
 
-<!-- ## Setup (Needs to be updated)
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project. -->
-
-
 ## Project Status
 Project development is: _in-progress_ - This project is in progress of being built up. All Bootstrap UI designs are complete.
 
@@ -114,9 +108,10 @@ Room for improvement:
 - Time Management
 
 To do:
-- Fix logging in the Heroku Cloud
-- Add the Cashier & Report sections on the dashboard
-- Add Table & User pages for the management section
+- Fix logging in the Heroku Cloud.
+- Refactor Cashier section with to fix the User menu option.
+- Add the Report section to the dashboard.
+- Add Table & User pages for the management section.
 
 ## How to run project locally
 1. Make sure you download regular version of MAMP locally. 
