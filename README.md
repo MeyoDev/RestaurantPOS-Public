@@ -163,3 +163,9 @@ Created by [Micah Miller](https://github.com/mmiller2321) and [Mann Jaiswal](htt
 ## License
 This project is open source and available under the [GNU General Public License v3.0](https://github.com/mmiller2321/RestaurantPOS/blob/main/LICENSE).
 
+<!-- ### Heroku Deployments
+
+- Go to the project locally `C:\Users\mimil\GCU Classes\CST Classes\CST-452-Senior-Project-2\PersonalPortfolio` and left click to open up `Git Bash`.
+- Execute the `heroku git:remote -a [HEROKU APP NAME]` to connect the local repo to a Heroku app (only need to execute once). 
+- Execute the `heroku git:remote -a [HEROKU APP NAME]` to deploy the cloud to Heroku or in my case do `heroku git:remote -a micahmiller` -->
+
